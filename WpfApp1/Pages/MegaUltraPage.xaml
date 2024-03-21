@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MegaUltraPage" Height="450" Width="800">
     <Grid>
-        
+        <Button Width="100" Height="50"></Button>
+        <Button Height="40" Width="50" Background="red"></Button>
+        <Button Background="yellow" Width="25" Height="10"></Button>
     </Grid>
 </Window>
